@@ -42,7 +42,7 @@ namespace Forlus
 
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("Oefenreeks 2");
+            Console.WriteLine("Oefenreeks 2 ");
             Console.WriteLine("------------");
 
             Console.WriteLine("Naam Oefening  \t Verwacht Resultaat \tJouw Resultaat");
