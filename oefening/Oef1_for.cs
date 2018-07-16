@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Forlus
+namespace First
 {
     class Oef1_for
     {

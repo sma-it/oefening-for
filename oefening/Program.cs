@@ -1,6 +1,6 @@
 using System;
 
-namespace Forlus
+namespace First
 {
     class Program
     {
