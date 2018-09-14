@@ -35,7 +35,7 @@ namespace First
             Console.WriteLine("Naam Oefening  \t Verwacht Resultaat \tJouw Resultaat");
             Console.WriteLine("BerekenSom1 \t 5050 \t\t\t" + Oef1_for.BerekenSom1());
             Console.WriteLine("BerekenSom2 \t 465 \t\t\t" + Oef1_for.BerekenSom2(30));
-            Console.WriteLine("BerekenFac \t 362880 \t\t" + Oef1_for.BerekenFac(10));
+            Console.WriteLine("BerekenFac \t 3628800 \t\t" + Oef1_for.BerekenFac(10));
 
             Console.Write("Verdergaan met Reeks 2? (Y/n)");
             if (Console.ReadKey().KeyChar == 'n') return;
