@@ -63,7 +63,7 @@ namespace First
          * 5! = 1*2*3*4*5
          * Geef de faculteit als functieresultaat.
          */
-        public static double BerekenFac(int a)
+        public static long BerekenFac(int a)
         {
             // schrijf hier je code
             return 0;
